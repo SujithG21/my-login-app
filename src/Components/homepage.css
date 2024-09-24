@@ -1,0 +1,29 @@
+/* 
+h1 {
+    text-align: center;
+    color: #000;
+}
+body {
+    background-color: #fff !important; 
+}
+
+.homepage-container {
+    background-color: #fff; 
+    min-height: 100vh; 
+} */
+
+/* homepage.css */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.homepage-container {
+    background-color: #fff; 
+    min-height: 100vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
